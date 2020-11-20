@@ -1,0 +1,8 @@
+{
+  "name": "Calibracion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5bfbfda0"
+}
